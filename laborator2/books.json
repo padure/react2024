@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "adipisci minus laudantium",
+      "author": "Marta Stoltenberg",
+      "pages": 88,
+      "description": "Quia corrupti accusantium voluptatum eaque excepturi possimus aliquam. Quis vitae magni atque ad facilis qui expedita repellendus. Ratione recusandae aut et expedita id."
+    },
+    {
+      "id": "2",
+      "title": "Title 2.1",
+      "author": "Marta Stoltenberg",
+      "pages": 112,
+      "description": "Quia corrupti accusantium voluptatum eaque excepturi possimus aliquam."
+    }
+  ]
+}
